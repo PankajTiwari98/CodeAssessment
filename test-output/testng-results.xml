@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T20:04:56 IST" name="Default suite" finished-at="2022-11-10T20:05:15 IST" duration-ms="19069">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T20:04:56 IST" name="Default test" finished-at="2022-11-10T20:05:15 IST" duration-ms="19069">
+      <class name="CodeAssessment.MovieDetails.MovieDetailsTest">
+        <test-method signature="verifyMovieDetails()[pri:0, instance:CodeAssessment.MovieDetails.MovieDetailsTest@49c7b90e]" started-at="2022-11-10T20:04:56 IST" name="verifyMovieDetails" finished-at="2022-11-10T20:05:15 IST" duration-ms="19022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMovieDetails -->
+      </class> <!-- CodeAssessment.MovieDetails.MovieDetailsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
